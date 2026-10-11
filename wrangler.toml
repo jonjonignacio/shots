@@ -1,0 +1,7 @@
+name = "shots"
+main = "src/index.js"
+compatibility_date = "2026-10-11"
+
+[[r2_buckets]]
+binding = "SCREENSHOT_BUCKET"
+bucket_name = "shots"
